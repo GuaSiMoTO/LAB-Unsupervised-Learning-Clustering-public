@@ -28,7 +28,7 @@ To run the notebook and reproduce the results, follow these steps:
     jupyter notebook
     ```
 
-## Steps in the Workflow
+## Steps
 
 ### Step 1: Data Load and Exploration
 
